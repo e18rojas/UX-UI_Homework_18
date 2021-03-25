@@ -1,0 +1,51 @@
+/* Text */
+h1, h2, h3 , h4, h5, h6 {
+  font-family: 'Anton', sans-serif;
+}
+p {
+  font-family: 'Jura', sans-serif;
+}
+
+
+/* Cards */
+.content {
+  padding: 50px;
+}
+.sectionHeading {
+align-items: center;
+justify-items: center;
+margin-bottom: 80px;
+
+
+
+}
+.skills  {
+  padding: 1px 30px 30px 30px;
+}
+.cardContainer {
+  text-align: center;
+}
+
+
+/* Footer */
+.emailContain {
+  background: url(../images/emailBG.jpg);
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 500px;
+}
+
+
+
+/* STYLES FOR TEMPLATE PLEASE DO NOT TOUCH*/
+}
+.cardContainer {
+  margin-top: 20px;
+}
+.card {
+  margin: 0 auto;
+}
